@@ -1,6 +1,4 @@
 - 👋 Hey there, ... I’m @HennadiiBorysevych
-- 👀 I’m interested in ...becoming Developer very much😜
-- 🌱 I’m currently learning ... JavaScript😶‍🌫️
 - 📫 How to reach me >> genuch3@gmail.com🌐
 
 <!---
