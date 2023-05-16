@@ -44,6 +44,10 @@
 
 <h3 align="left">Statistics:</h3>
 
+<p align="center"><img src="https://github-readme-stats-xi-blue-69.vercel.app/api?username=HennadiiBorysevych&show_icons=true&locale=en&theme=vue-dark" alt="HennadiiBorysevych" /></p>
+
+<p align="center"><img src="https://github-readme-stats-xi-blue-69.vercel.app/api/top-langs?username=HennadiiBorysevych&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="HennadiiBorysevych" /></p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=HennadiiBorysevych&label=Profile%20views&color=0e75b6&style=flat" alt="HennadiiBorysevych" /></p>
 
 
